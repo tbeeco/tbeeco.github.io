@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Announcing Version 2.0
+title:      비트코인 온라인 그랜드 오픈
 date:       2015-07-11
-summary:    Now, Pixyll is lighter weight and more customizable than before.
+summary:    안녕하세요. 
 categories: jekyll pixyll
 ---
 
